@@ -1,0 +1,6 @@
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+app/loc_facebook.py
+facebook_history.csv

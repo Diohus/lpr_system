@@ -1,0 +1,543 @@
+[
+  {
+    "source": "1.jpg",
+    "status": "ok",
+    "annotated_image": "1_annotated.jpg",
+    "detections": [
+      {
+        "plate_text": "51A-961.41",
+        "yolo_conf": 0.7611,
+        "ocr_conf": 0.9083,
+        "bbox": [
+          267,
+          286,
+          416,
+          358
+        ],
+        "bbox_wh": "149x72",
+        "latency_yolo_ms": 1834.1,
+        "latency_ocr_ms": 589.8,
+        "latency_total_ms": 2423.9,
+        "frame_idx": 0
+      }
+    ]
+  },
+  {
+    "source": "2.jpg",
+    "status": "ok",
+    "annotated_image": "2_annotated.jpg",
+    "detections": [
+      {
+        "plate_text": "68-C1 375.20",
+        "yolo_conf": 0.8371,
+        "ocr_conf": 0.9645,
+        "bbox": [
+          276,
+          136,
+          413,
+          302
+        ],
+        "bbox_wh": "137x166",
+        "latency_yolo_ms": 1226.3,
+        "latency_ocr_ms": 162.2,
+        "latency_total_ms": 1388.5,
+        "frame_idx": 0
+      }
+    ]
+  },
+  {
+    "source": "anh_xe.png",
+    "status": "ok",
+    "annotated_image": "anh_xe_annotated.png",
+    "detections": [
+      {
+        "plate_text": "12-H1 401.36",
+        "yolo_conf": 0.8021,
+        "ocr_conf": 0.9457,
+        "bbox": [
+          215,
+          324,
+          310,
+          394
+        ],
+        "bbox_wh": "95x70",
+        "latency_yolo_ms": 707.0,
+        "latency_ocr_ms": 135.2,
+        "latency_total_ms": 842.2,
+        "frame_idx": 0
+      }
+    ]
+  },
+  {
+    "source": "boderquandoi76_jpg.rf.620173709ffd85b7590a637758d509db.jpg",
+    "status": "ok",
+    "annotated_image": "boderquandoi76_jpg.rf.620173709ffd85b7590a637758d509db_annotated.jpg",
+    "detections": [
+      {
+        "plate_text": "KTAT K7-60-73",
+        "yolo_conf": 0.6838,
+        "ocr_conf": 0.5737,
+        "bbox": [
+          410,
+          343,
+          457,
+          370
+        ],
+        "bbox_wh": "47x27",
+        "latency_yolo_ms": 1026.2,
+        "latency_ocr_ms": 172.6,
+        "latency_total_ms": 1198.8,
+        "frame_idx": 0
+      }
+    ]
+  },
+  {
+    "source": "CarLongPlateGen2696_jpg.rf.45e25bb8ebd2b6a4f3d46a38cb76179b.jpg",
+    "status": "ok",
+    "annotated_image": "CarLongPlateGen2696_jpg.rf.45e25bb8ebd2b6a4f3d46a38cb76179b_annotated.jpg",
+    "detections": [
+      {
+        "plate_text": "51F-590.11",
+        "yolo_conf": 0.7588,
+        "ocr_conf": 0.978,
+        "bbox": [
+          313,
+          371,
+          481,
+          461
+        ],
+        "bbox_wh": "168x90",
+        "latency_yolo_ms": 1189.1,
+        "latency_ocr_ms": 92.3,
+        "latency_total_ms": 1281.4,
+        "frame_idx": 0
+      }
+    ]
+  },
+  {
+    "source": "che-bien-so_1720427046.jpeg",
+    "status": "ok",
+    "annotated_image": "che-bien-so_1720427046_annotated.jpeg",
+    "detections": []
+  },
+  {
+    "source": "Don-Tim-Voi-Kho-Xe-M-01.jpg",
+    "status": "ok",
+    "annotated_image": "Don-Tim-Voi-Kho-Xe-M-01_annotated.jpg",
+    "detections": [
+      {
+        "plate_text": "66-L6 6789",
+        "yolo_conf": 0.7886,
+        "ocr_conf": 0.9981,
+        "bbox": [
+          1188,
+          708,
+          1716,
+          1094
+        ],
+        "bbox_wh": "528x386",
+        "latency_yolo_ms": 781.0,
+        "latency_ocr_ms": 170.1,
+        "latency_total_ms": 951.1,
+        "frame_idx": 0
+      },
+      {
+        "plate_text": "66-H9 666",
+        "yolo_conf": 0.7775,
+        "ocr_conf": 0.8656,
+        "bbox": [
+          298,
+          665,
+          485,
+          815
+        ],
+        "bbox_wh": "187x150",
+        "latency_yolo_ms": 781.0,
+        "latency_ocr_ms": 203.5,
+        "latency_total_ms": 984.4,
+        "frame_idx": 0
+      },
+      {
+        "plate_text": "67-L3 888",
+        "yolo_conf": 0.7511,
+        "ocr_conf": 0.7453,
+        "bbox": [
+          652,
+          608,
+          824,
+          752
+        ],
+        "bbox_wh": "172x144",
+        "latency_yolo_ms": 781.0,
+        "latency_ocr_ms": 177.7,
+        "latency_total_ms": 958.6,
+        "frame_idx": 0
+      },
+      {
+        "plate_text": "67-M7 999",
+        "yolo_conf": 0.7413,
+        "ocr_conf": 0.8244,
+        "bbox": [
+          921,
+          575,
+          1078,
+          704
+        ],
+        "bbox_wh": "157x129",
+        "latency_yolo_ms": 781.0,
+        "latency_ocr_ms": 252.7,
+        "latency_total_ms": 1033.6,
+        "frame_idx": 0
+      },
+      {
+        "plate_text": "M1",
+        "yolo_conf": 0.6589,
+        "ocr_conf": 0.7307,
+        "bbox": [
+          306,
+          302,
+          412,
+          391
+        ],
+        "bbox_wh": "106x89",
+        "latency_yolo_ms": 781.0,
+        "latency_ocr_ms": 208.8,
+        "latency_total_ms": 989.8,
+        "frame_idx": 0
+      }
+    ]
+  },
+  {
+    "source": "images.jpg",
+    "status": "ok",
+    "annotated_image": "images_annotated.jpg",
+    "detections": [
+      {
+        "plate_text": "30K-585.86",
+        "yolo_conf": 0.5949,
+        "ocr_conf": 0.8715,
+        "bbox": [
+          93,
+          146,
+          174,
+          175
+        ],
+        "bbox_wh": "81x29",
+        "latency_yolo_ms": 846.5,
+        "latency_ocr_ms": 79.4,
+        "latency_total_ms": 925.9,
+        "frame_idx": 0
+      }
+    ]
+  },
+  {
+    "source": "Screenshot 2025-04-20 235545.png",
+    "status": "ok",
+    "annotated_image": "Screenshot 2025-04-20 235545_annotated.png",
+    "detections": []
+  },
+  {
+    "source": "Screenshot 2026-05-20 111927.png",
+    "status": "ok",
+    "annotated_image": "Screenshot 2026-05-20 111927_annotated.png",
+    "detections": []
+  },
+  {
+    "source": "Screenshot 2026-05-20 112439.png",
+    "status": "ok",
+    "annotated_image": "Screenshot 2026-05-20 112439_annotated.png",
+    "detections": [
+      {
+        "plate_text": "29-M01 001.60",
+        "yolo_conf": 0.8103,
+        "ocr_conf": 0.9255,
+        "bbox": [
+          167,
+          109,
+          288,
+          202
+        ],
+        "bbox_wh": "121x93",
+        "latency_yolo_ms": 980.0,
+        "latency_ocr_ms": 227.7,
+        "latency_total_ms": 1207.7,
+        "frame_idx": 0
+      }
+    ]
+  },
+  {
+    "source": "Screenshot 2026-05-20 113038.png",
+    "status": "ok",
+    "annotated_image": "Screenshot 2026-05-20 113038_annotated.png",
+    "detections": []
+  },
+  {
+    "source": "Screenshot 2026-05-20 113141.png",
+    "status": "ok",
+    "annotated_image": "Screenshot 2026-05-20 113141_annotated.png",
+    "detections": []
+  },
+  {
+    "source": "Screenshot 2026-05-20 115536.png",
+    "status": "ok",
+    "annotated_image": "Screenshot 2026-05-20 115536_annotated.png",
+    "detections": [
+      {
+        "plate_text": "75A-156.78",
+        "yolo_conf": 0.6688,
+        "ocr_conf": 0.9687,
+        "bbox": [
+          254,
+          140,
+          407,
+          198
+        ],
+        "bbox_wh": "153x58",
+        "latency_yolo_ms": 662.6,
+        "latency_ocr_ms": 72.8,
+        "latency_total_ms": 735.4,
+        "frame_idx": 0
+      }
+    ]
+  },
+  {
+    "source": "tu-01-01-2025-che-bien-so-o-to-bi-phat-den-26-trieu-dong_0301142410.jpg",
+    "status": "ok",
+    "annotated_image": "tu-01-01-2025-che-bien-so-o-to-bi-phat-den-26-trieu-dong_0301142410_annotated.jpg",
+    "detections": []
+  },
+  {
+    "source": "xe-may-bien-khung-6c09-9818.jpg",
+    "status": "ok",
+    "annotated_image": "xe-may-bien-khung-6c09-9818_annotated.jpg",
+    "detections": [
+      {
+        "plate_text": "70-D1 333.33",
+        "yolo_conf": 0.7154,
+        "ocr_conf": 0.9322,
+        "bbox": [
+          359,
+          205,
+          451,
+          277
+        ],
+        "bbox_wh": "92x72",
+        "latency_yolo_ms": 526.0,
+        "latency_ocr_ms": 142.7,
+        "latency_total_ms": 668.7,
+        "frame_idx": 0
+      },
+      {
+        "plate_text": "70-L1 644.44",
+        "yolo_conf": 0.6947,
+        "ocr_conf": 0.8829,
+        "bbox": [
+          707,
+          307,
+          816,
+          393
+        ],
+        "bbox_wh": "109x86",
+        "latency_yolo_ms": 526.0,
+        "latency_ocr_ms": 145.5,
+        "latency_total_ms": 671.5,
+        "frame_idx": 0
+      },
+      {
+        "plate_text": "70-61 444.44",
+        "yolo_conf": 0.574,
+        "ocr_conf": 0.8502,
+        "bbox": [
+          61,
+          223,
+          171,
+          310
+        ],
+        "bbox_wh": "110x87",
+        "latency_yolo_ms": 526.0,
+        "latency_ocr_ms": 245.7,
+        "latency_total_ms": 771.7,
+        "frame_idx": 0
+      }
+    ]
+  },
+  {
+    "source": "xe-may-bien-ngu-quy-1-1602131030740350738869.jpg",
+    "status": "ok",
+    "annotated_image": "xe-may-bien-ngu-quy-1-1602131030740350738869_annotated.jpg",
+    "detections": [
+      {
+        "plate_text": "34-B2 999.99",
+        "yolo_conf": 0.8245,
+        "ocr_conf": 0.9955,
+        "bbox": [
+          435,
+          620,
+          551,
+          710
+        ],
+        "bbox_wh": "116x90",
+        "latency_yolo_ms": 873.5,
+        "latency_ocr_ms": 140.6,
+        "latency_total_ms": 1014.2,
+        "frame_idx": 0
+      },
+      {
+        "plate_text": "34-B2 888.88",
+        "yolo_conf": 0.8203,
+        "ocr_conf": 0.9479,
+        "bbox": [
+          81,
+          538,
+          202,
+          630
+        ],
+        "bbox_wh": "121x92",
+        "latency_yolo_ms": 873.5,
+        "latency_ocr_ms": 178.0,
+        "latency_total_ms": 1051.5,
+        "frame_idx": 0
+      }
+    ]
+  },
+  {
+    "source": "xe-may-bien-ngu-quy-3-1602131030744664227203.jpg",
+    "status": "ok",
+    "annotated_image": "xe-may-bien-ngu-quy-3-1602131030744664227203_annotated.jpg",
+    "detections": [
+      {
+        "plate_text": "34-B1 999.9",
+        "yolo_conf": 0.7728,
+        "ocr_conf": 0.8475,
+        "bbox": [
+          336,
+          270,
+          406,
+          336
+        ],
+        "bbox_wh": "70x66",
+        "latency_yolo_ms": 839.5,
+        "latency_ocr_ms": 132.2,
+        "latency_total_ms": 971.6,
+        "frame_idx": 0
+      },
+      {
+        "plate_text": "36-BZ 999.99",
+        "yolo_conf": 0.7577,
+        "ocr_conf": 0.8695,
+        "bbox": [
+          462,
+          290,
+          530,
+          356
+        ],
+        "bbox_wh": "68x66",
+        "latency_yolo_ms": 839.5,
+        "latency_ocr_ms": 130.7,
+        "latency_total_ms": 970.1,
+        "frame_idx": 0
+      },
+      {
+        "plate_text": "34-B2 888.88",
+        "yolo_conf": 0.6573,
+        "ocr_conf": 0.8956,
+        "bbox": [
+          20,
+          381,
+          112,
+          455
+        ],
+        "bbox_wh": "92x74",
+        "latency_yolo_ms": 839.5,
+        "latency_ocr_ms": 286.3,
+        "latency_total_ms": 1125.8,
+        "frame_idx": 0
+      },
+      {
+        "plate_text": "34-B3 888.88",
+        "yolo_conf": 0.6156,
+        "ocr_conf": 0.9117,
+        "bbox": [
+          158,
+          255,
+          242,
+          320
+        ],
+        "bbox_wh": "84x65",
+        "latency_yolo_ms": 839.5,
+        "latency_ocr_ms": 202.5,
+        "latency_total_ms": 1042.0,
+        "frame_idx": 0
+      }
+    ]
+  },
+  {
+    "source": "xemay2133_jpg.rf.6ebe1ca56276b90c2e56b71d8f25fa2f.jpg",
+    "status": "ok",
+    "annotated_image": "xemay2133_jpg.rf.6ebe1ca56276b90c2e56b71d8f25fa2f_annotated.jpg",
+    "detections": [
+      {
+        "plate_text": "59-71 797.42",
+        "yolo_conf": 0.8483,
+        "ocr_conf": 0.8189,
+        "bbox": [
+          223,
+          152,
+          281,
+          217
+        ],
+        "bbox_wh": "58x65",
+        "latency_yolo_ms": 965.3,
+        "latency_ocr_ms": 240.9,
+        "latency_total_ms": 1206.2,
+        "frame_idx": 0
+      }
+    ]
+  },
+  {
+    "source": "xemayBigPlate165_jpg.rf.e775bea22567263896e87400f8e96075.jpg",
+    "status": "ok",
+    "annotated_image": "xemayBigPlate165_jpg.rf.e775bea22567263896e87400f8e96075_annotated.jpg",
+    "detections": [
+      {
+        "plate_text": "94-R1 9764",
+        "yolo_conf": 0.8443,
+        "ocr_conf": 0.9686,
+        "bbox": [
+          153,
+          255,
+          312,
+          405
+        ],
+        "bbox_wh": "159x150",
+        "latency_yolo_ms": 937.8,
+        "latency_ocr_ms": 141.9,
+        "latency_total_ms": 1079.6,
+        "frame_idx": 0
+      }
+    ]
+  },
+  {
+    "source": "xemayBigPlate221_jpg.rf.d86b4009baba842edc964a451ea5ffd7.jpg",
+    "status": "ok",
+    "annotated_image": "xemayBigPlate221_jpg.rf.d86b4009baba842edc964a451ea5ffd7_annotated.jpg",
+    "detections": [
+      {
+        "plate_text": "65-B1 045.66",
+        "yolo_conf": 0.8278,
+        "ocr_conf": 0.9323,
+        "bbox": [
+          162,
+          214,
+          440,
+          468
+        ],
+        "bbox_wh": "278x254",
+        "latency_yolo_ms": 868.4,
+        "latency_ocr_ms": 166.6,
+        "latency_total_ms": 1035.0,
+        "frame_idx": 0
+      }
+    ]
+  }
+]
